@@ -16,7 +16,7 @@
 - :mag_right: <a href="#fullfill">보완할점</a>
 
 # :books: <a name="outline">개요</a>
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/2.png"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/2.png"> <br/><br/>
 
 >**프로젝트**: OTT플랫폼 제작
 >
@@ -64,41 +64,41 @@
 </div>
 
 # :family: <a name="team">팀원소개</a>
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/1.png"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/1.png"> <br/><br/>
 # :bookmark_tabs: <a name="function">기능구현</a>
 **1. 관리자 로그인시 버튼 활성화 및 작품 및 리뷰관리**
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/activebutton.png">
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/deactivatedbutton.png"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/activebutton.png">
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/deactivatedbutton.png"> <br/><br/>
 - 세션에 저장된 아이디의 권한을 입력받아 권한이 관리자 일때 버튼이 나오도록 활성화 및 수정 가능 
 <br/>
 
 **2. 나이에따른 관람가 제한**
 <img src="https://raw.githubusercontent.com/kimdo12/Portf글**
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/board.png"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/board.png"> <br/><br/>
 - RESTful 웹 서비스를 구축하여 RestController로 주문상세목록 객체를 JSON으로 데이터 전송
 - 버튼 클릭시 Modal에서 주문 상세 목록 출력
 <br/>
 
 **4. 결제**
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/pay.png"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/pay.png"> <br/><br/>
 - 이니시스 결제 api 연동하여 토큰 이나 멤버쉽으로 결제가능
 - 결제 정보에 따라 프로필 생성가능 수를 늘리거나 영상시청시 토큰이 차감되거나 멤버쉽으로 볼수 있게 함 
 <br/>
 
 **5. 영상조회**
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/filter.gif"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/filter.gif"> <br/><br/>
 - 각각의 키워드로 영상을 검색하거나 영상 분류에 맞는 영상물 조회 및 분류 안에서 세부장르로 검색할 수 있게함
 
 <br/>
 
 **6. 고객 통계에 따른 영상 추천**
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/most.png"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/most.png"> <br/><br/>
 - 시청기록 테이블에서 가장 많이 보거나 리뷰가 많이 쓰여진 영상물 조회 후 상위 5개 항목 출력
 - 슬라이드 형식으로 구성
 <br/>
 
 **7. 프로필에 따른 리뷰,시청목록,리뷰에 따른 신고 및 좋아요 **
-<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_1/main/src/main/resources/static/images/dhportfolioimage/review.gif"> <br/><br/>
+<img src="https://raw.githubusercontent.com/kimdo12/Portfolio_kimdohyeong/main/src/main/resources/static/images/dhportfolioimage/review.gif"> <br/><br/>
 - 프로필에따라 시청기록있는 영상에 한해 리뷰가 가능함, 좋아요,신고 기능 
 <br/>
 
